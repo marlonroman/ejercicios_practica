@@ -1,7 +1,6 @@
 body{
   background-color:red;
 }
-
 .parrafo1{
   background-color:blue;
   color: black;
@@ -9,3 +8,14 @@ body{
   font-weight: lighter;
   font-size: x-small;
 }
+
+.parrafo2{
+    background-color: aqua;
+    color: black;
+    font-size: medium;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
