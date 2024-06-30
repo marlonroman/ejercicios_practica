@@ -1,6 +1,13 @@
 body{
   background-color:red;
 }
+.parrafo1{
+  background-color:blue;
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+  font-size: x-small;
+}
 
 .parrafo2{
     background-color: aqua;
@@ -9,3 +16,6 @@ body{
     font-style: oblique;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+
+
