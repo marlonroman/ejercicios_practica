@@ -1,3 +1,11 @@
 body{
   background-color:red;
 }
+
+.parrafo2{
+    background-color: aqua;
+    color: black;
+    font-size: medium;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
